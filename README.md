@@ -98,3 +98,18 @@ deluged --version
 ----------------------------------------------------------------------
 
 You are now done, try and visit your deluge front end and enable proxy and test the download of the torrent files.
+
+----------------------------------------------------------------------
+THIS INFORMATION WAS COLLECTED FROM THE FOLLOWING LOCATIONS ON THE WEB.
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+https://code.google.com/p/libtorrent/issues/detail?can=2&start=0&num=100&q=&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary&groupby=&sort=&id=439
+https://coderwall.com/p/muvnow
+http://stackoverflow.com/questions/14047653/python-bindings-for-libtorrent-rasterbar-are-not-working
+http://forum.deluge-torrent.org/viewtopic.php?f=7&t=35669
+http://forum.deluge-torrent.org/viewtopic.php?f=7&t=45275
+http://thrift.apache.org/docs/install/ubuntu/
+http://stackoverflow.com/questions/12578499/install-boost-on-ubuntu
+http://www.ubuntugeek.com/how-to-install-the-latest-rtorrent-and-libtorrent.html
+http://forum.deluge-torrent.org/viewtopic.php?f=7&t=45725
